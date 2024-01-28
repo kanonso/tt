@@ -1,20 +1,27 @@
 
-港澳台,#genre#
+🌏全球 👉台湾电视,#genre#
 
-民視,rtmp://219.80.97.77/sat/tv051
-民視,rtmp://119.81.124.89/sat/tv051
-民視,rtmp://9sv2.mine.nu/sat/tv051
+民视,https://epg.pw/stream/720e88c5916645734a5ed560a15e475c11c32dd6659b37aceb035720ee6f40ea.m3u8
+民视,mitv://generationnexxxt.com:19806/8d864649cfc54b518b3d137d67583155
 
-台視,rtmp://219.80.97.77/sat/tv071
-台視,rtmp://119.81.124.89/sat/tv071
-台視HD,https://epg.pw/stream/d17487ab06a0b88601cf6a6a717f0458d7ff8798dc4e42398e1c9874e2e7441d.m3u8
-台視HD,https://epg.pw/stream/803c791208b40e0816487d6afdfe8d3a019712b6655f68c31725d20958253b99.m3u8
+台视,https://epg.pw/stream/850967cb490cf3c98e20a19b56de0e5a029710949cff71a4132bf059dcf656bc.m3u8
+台视,mitv://generationnexxxt.com:19806/3c20d4387ec845149b2ded5f28805f18
 
-中視,rtmp://219.80.97.77/sat/tv091
-中視,rtmp://119.81.124.89/sat/tv091
-中視,https://epg.pw/stream/5c00445bca9aaeefcb38ce5a1227e06ac3d420a57a804161ae6f95eaf4e825e9.m3u8
+中视,mitv://generationnexxxt.com:19806/c4ede9c3d1a84d0b9afe57622abcb9e7
 
-華視,rtmp://219.80.97.77/sat/tv111
-華視,rtmp://119.81.124.89/sat/tv111
-华视,https://epg.pw/stream/eccf32739b25830eae943450b2e0cd8790e575a94f2edee661670cbceaa71f49.m3u8
-华视,https://epg.pw/stream/92e6006307ddf8606bd2c5d733a1ff95e335eba670142bbc6d8853d81bfbaaea.m3u8
+华视,https://epg.pw/stream/2ef08642072574008f65939021951a59fe9fc71369c751393f40a1b2234e18c9.m3u8
+华视,mitv://generationnexxxt.com:19806/177390ae66634acca9be01242a769660
+
+🍁广播 👉️台湾电台,#genre#
+亚洲电台 (FM92.7),https://n02.rcs.revma.com/xpgtqc74hv8uv?rj-ttl=5&rj-tok=AAABjStRmZoA3o1H16uGygvlxA
+中广音乐网 i radio (FM96),https://n03.rcs.revma.com/ks4vsmg3qtzuv?rj-ttl=5&rj-tok=AAABjStQpr4A9XcP0PB_6P_7hg
+中广流行网 (FM103),https://n01.rcs.revma.com/s1zttsg3qtzuv?rj-ttl=5&rj-tok=AAABjStP8FEAh50cuTrsusuXzA
+中广新闻网,https://n09.rcs.revma.com/fgtx07f3qtzuv?rj-ttl=5&rj-tok=AAABjStTYgIAE7ZtzL62lSJnmA
+飞碟电台,https://n03.rcs.revma.com/em90w4aeewzuv?rj-ttl=5&rj-tok=AAABjStODs4AgELHq7-FxL6v9A
+
+
+
+
+
+
+
