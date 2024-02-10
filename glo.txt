@@ -2,15 +2,17 @@
 🌏全球 👉台湾电视,#genre#
 
 民视,https://epg.pw/stream/720e88c5916645734a5ed560a15e475c11c32dd6659b37aceb035720ee6f40ea.m3u8
-民视,mitv://generationnexxxt.com:19806/8d864649cfc54b518b3d137d67583155
+民视,
 
 台视,https://epg.pw/stream/850967cb490cf3c98e20a19b56de0e5a029710949cff71a4132bf059dcf656bc.m3u8
-台视,mitv://generationnexxxt.com:19806/3c20d4387ec845149b2ded5f28805f18
+台视,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivenczztzzudtzlzcvbcvntzzzsfwetzfvcbcxvdzbzfflvcztsxw.flv
 
-中视,mitv://generationnexxxt.com:19806/c4ede9c3d1a84d0b9afe57622abcb9e7
+中视,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivepnvzydstudzbszcvbfzzzszfzszwetymzldhduzocnzsxw.flv
 
 华视,https://epg.pw/stream/2ef08642072574008f65939021951a59fe9fc71369c751393f40a1b2234e18c9.m3u8
 华视,mitv://generationnexxxt.com:19806/177390ae66634acca9be01242a769660
+
+TVBS,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivezpzovdxzozfdezodszxcvlzzfvhnzlzzzobzzzsvhzchtvbs.flv
 
 🍁广播 👉️台湾电台,#genre#
 亚洲电台 (FM92.7),https://n02.rcs.revma.com/xpgtqc74hv8uv?rj-ttl=5&rj-tok=AAABjStRmZoA3o1H16uGygvlxA
