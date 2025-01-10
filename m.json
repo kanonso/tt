@@ -79,7 +79,7 @@
       ]
     },
     {
-      "key": "量子资源",
+      "key": "csp_量子资源",
       "name": "🥑┃量子┃资源",
       "type": 1,
       "api": "https://lzizy1.com/api.php/provide/vod/",
@@ -112,8 +112,8 @@
       ]
     },
       {
-      "key": "暴风采集",
-      "name": "🌪️暴风影音",
+      "key": "csp_暴风资源",
+      "name": "🥗┃暴风┃资源",
       "type": 1,
       "api": "https://bfzyapi.com/api.php/provide/vod/",
        "playurl": "json:https://vip.vipuuvip.com/?url=",
