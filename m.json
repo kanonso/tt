@@ -17,7 +17,7 @@
       "name": "🦁┃iKun┃资源",
       "type": 1,
       "api": "https://ikunzyapi.com/api.php/provide/vod ",
-      "playurl": "json: https://www.ikdmjx.com/?url= ",
+      "playurl": "json:https://raw.githubusercontent.com/kanonso/tt/refs/heads/main/m.json/?url= ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
