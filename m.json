@@ -2,6 +2,14 @@
   "spider": "./fty.jar;md5;3d161697458ecbcd2651a749db761ba1",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "warningText": "资源来自网络，所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买。",
+   "lives": [
+    {
+      "name": "IPV4",
+      "type": 0,
+      "url": "https://tv.iill.top/m3u/Gather",
+      "playerType": 1,
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
   "sites": [
     {
       "key": "csp_douban",
@@ -88,7 +96,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "categories": [
-         "国产动漫",
+        "国产动漫",
         "日本动漫",
         "动作片",
         "科幻片",
@@ -145,11 +153,13 @@
       ]
     },
     {
-      "key": "feisu",
-      "name": "🛰️飞速┃采集",
+      "key": "csp_hdzyk资源",
+      "name": "🛰️hdzyk┃资源",
       "type": 1,
-      "api": "https://www.feisuzyapi.com/api.php/provide/vod/?ac=list",
+      "api": "https://api.yzzy-api.com/inc/ldg_api_all.php",
+       "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
       "searchable": 1,
+      "quickSearch": 1,
       "filterable": 0,
       "categories": [
         "国产动漫",
