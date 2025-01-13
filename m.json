@@ -1120,6 +1120,7 @@
         "#EXTINF.*?\\s+.*?1171(057).*?\\.ts",
         "#EXTINF.*?\\s+.*?6d7b(077).*?\\.ts",
         "#EXTINF.*?\\s+.*?6718a(403).*?\\.ts",
+        "25.0666"
         "17.99",
         "14.45"
       ]
@@ -1133,16 +1134,6 @@
         "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
         "#EXTINF.*?\\s+.*?p1ayer.*?\\.ts",
         "#EXTINF.*?\\s+.*?\\/video\\/original.*?\\.ts"
-      ]
-    },
-    {
-      "name": "非凡",
-      "hosts": [
-        "vip.ffzy",
-        "hd.ffzy"
-      ],
-      "regex": [
-        "25.0666"
       ]
     },
     {
