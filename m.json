@@ -278,10 +278,10 @@
       ]
     },
     {
-      "key": "极速资源",
-      "name": "极速｜采集",
+      "key": "华为吧资源",
+      "name": "华为吧｜采集",
       "type": 1,
-      "api": "https://jszyapi.com/api.php/provide/vod/",
+      "api": "https://cjhwba.com/api.php/provide/vod/",
       "searchable": 1,
       "changeable": 1,
       "categories": [
