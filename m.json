@@ -111,7 +111,7 @@
   "lives": [
     {"name": "aktv",
      "type": 0,
-     "url": "http://aktv.top/live.m3u",
+     "url": "##YabVSDME1##PAGE",
      "playerType": 1,
      "ua": "okhttp",
      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
