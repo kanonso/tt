@@ -109,14 +109,21 @@
     {"name": "cl","hosts": [  "magnet"],"regex": [  "最 新",  "直 播",  "更 新"]}
   ],
   "lives": [
-  {
-      "name": "YanG-1989",
-      "type": 0,
-      "url": "https://tv.iill.top/m3u/Gather",
-      "playerType": 1,
-      "ua": "okhttp",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    {"name": "aktv",
+     "type": 0,
+     "url": "http://aktv.top/live.m3u",
+     "playerType": 1,
+     "ua": "okhttp",
+     "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+     "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {"name": "YanG-1989",
+     "type": 0,
+     "url": "https://tv.iill.top/m3u/Gather",
+     "playerType": 1,
+     "ua": "okhttp",
+     "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+     "logo": "https://epg.112114.xyz/logo/{name}.png"
    }
   ]
 }
