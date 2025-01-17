@@ -116,7 +116,7 @@
      "ua": "okhttp",
      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }
+    },
     {"name": "综合订阅",
      "type": 0,
      "url": "https://video.mytvsuper.xyz/playlist/zong-he-ding-yue.m3u?token=551244477653082",
