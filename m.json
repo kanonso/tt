@@ -109,25 +109,9 @@
     {"name": "cl","hosts": [  "magnet"],"regex": [  "最 新",  "直 播",  "更 新"]}
   ],
   "lives": [
-    {"name": "Ya大葱",
+    {"name": "live",
      "type": 0,
-     "url": "https://tv.iill.top/m3u/Gathered",
-     "playerType": 1,
-     "ua": "okhttp",
-     "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-     "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {"name": "综合订阅",
-     "type": 0,
-     "url": "https://video.mytvsuper.xyz/playlist/zong-he-ding-yue.m3u?token=551244477653082",
-     "playerType": 1,
-     "ua": "okhttp",
-     "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-     "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {"name": "体育订阅",
-     "type": 0,
-     "url": "https://video.mytvsuper.xyz/playlist/ti-yu-ding-yue.m3u?token=551244477653082",
+     "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/live.txt",
      "playerType": 1,
      "ua": "okhttp",
      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
