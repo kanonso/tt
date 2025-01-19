@@ -115,63 +115,6 @@
      "playerType": 1,
      "ua": "okhttp",
      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-     "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {"name": "电视直播",
-     "type": 0,
-     "url": "https://app-1308961551.cos.ap-guangzhou.myqcloud.com/sub/%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD%E6%BA%90%E8%B6%85%E7%A8%B3%E5%AE%9A.m3u",
-     "playerType": 1,
-     "ua": "okhttp",
-     "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-     "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {"name": "小小TV",
-     "type": 0,
-     "url": "https://app-1308961551.cos.ap-guangzhou.myqcloud.com/sub/%E5%B0%8F%E5%B0%8FTV.m3u",
-     "playerType": 1,
-     "ua": "okhttp",
-     "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-     "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {"name": "大世界",
-     "type": 0,
-     "url": "https://app-1308961551.cos.ap-guangzhou.myqcloud.com/sub/%E5%A4%A7%E4%B8%96%E7%95%8C%E7%9B%B4%E6%92%AD.m3u",
-     "playerType": 1,
-     "ua": "okhttp",
-     "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-     "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {"name": "中港台日韩",
-     "type": 0,
-     "url": "https://app-1308961551.cos.ap-guangzhou.myqcloud.com/sub/%E4%B8%AD%E6%B8%AF%E5%8F%B0%E6%97%A5%E9%9F%A9.m3u",
-     "playerType": 1,
-     "ua": "okhttp",
-     "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-     "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {"name": "IPTV全球直播",
-     "type": 0,
-     "url": "https://app-1308961551.cos.ap-guangzhou.myqcloud.com/sub/IPTV%E5%85%A8%E7%90%83%E7%9B%B4%E6%92%AD%E6%BA%90.m3u",
-     "playerType": 1,
-     "ua": "okhttp",
-     "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-     "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-     {"name": "4000+国内外",
-     "type": 0,
-     "url": "https://app-1308961551.cos.ap-guangzhou.myqcloud.com/sub/4000%2B%20%E5%9B%BD%E5%86%85%E5%A4%96%E7%9B%B4%E6%92%AD%E6%BA%90.m3u",
-     "playerType": 1,
-     "ua": "okhttp",
-     "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-     "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {"name": "YanG-1989",
-     "type": 0,
-     "url": "https://tv.iill.top/m3u/Gather",
-     "playerType": 1,
-     "ua": "okhttp",
-     "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-     "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }
+     "logo": "https://epg.112114.xyz/logo/{name}.png"}
   ]
 }
